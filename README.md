@@ -23,7 +23,7 @@ You must to especify what ip address you want to analice.
 ```
 python3 whatSystem.py [IP]
 ```
-### :mag_right: OUTPUT
+### :mag_right: EXAMPLE
 
 ```
 s1k0@s1k0:~$ python3 whatSystem.py localhost
